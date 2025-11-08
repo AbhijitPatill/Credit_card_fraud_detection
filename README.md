@@ -1,5 +1,5 @@
 # Credit_card_fraud_detection
-## `main.py` - The Core Script
+## `main.py` 
 
 This file contains the complete Python code for the credit card fraud detection system. The script performs the following steps:
 
